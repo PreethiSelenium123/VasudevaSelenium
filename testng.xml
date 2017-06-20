@@ -1,0 +1,12 @@
+
+<suite name="ORHM">
+  <test name="ADMIN">
+    <classes>
+
+              
+      <class name="day15.AddEmpTest"/>
+       <class name="day15.EmpListTest"/>
+
+    </classes>
+  </test> 
+</suite> 

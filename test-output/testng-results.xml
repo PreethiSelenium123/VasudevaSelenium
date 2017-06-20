@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="ORHM" duration-ms="9385" started-at="2017-06-10T15:21:10Z" finished-at="2017-06-10T15:21:20Z">
+    <groups>
+    </groups>
+    <test name="ADMIN" duration-ms="9385" started-at="2017-06-10T15:21:10Z" finished-at="2017-06-10T15:21:20Z">
+      <class name="day15.AddEmpTest">
+        <test-method status="PASS" signature="appLaunch()[pri:0, instance:day15.AddEmpTest@30b98167]" name="appLaunch" is-config="true" duration-ms="9764" started-at="2017-06-10T20:51:01Z" finished-at="2017-06-10T20:51:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appLaunch -->
+        <test-method status="PASS" signature="appLogin()[pri:0, instance:day15.AddEmpTest@30b98167]" name="appLogin" is-config="true" duration-ms="2932" started-at="2017-06-10T20:51:10Z" finished-at="2017-06-10T20:51:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appLogin -->
+        <test-method status="PASS" signature="addEmp()[pri:0, instance:day15.AddEmpTest@30b98167]" name="addEmp" duration-ms="5045" started-at="2017-06-10T20:51:13Z" finished-at="2017-06-10T20:51:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addEmp -->
+        <test-method status="PASS" signature="appLogout()[pri:0, instance:day15.AddEmpTest@30b98167]" name="appLogout" is-config="true" duration-ms="1394" started-at="2017-06-10T20:51:18Z" finished-at="2017-06-10T20:51:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appLogout -->
+        <test-method status="PASS" signature="appClose()[pri:0, instance:day15.AddEmpTest@30b98167]" name="appClose" is-config="true" duration-ms="15" started-at="2017-06-10T20:51:20Z" finished-at="2017-06-10T20:51:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appClose -->
+      </class> <!-- day15.AddEmpTest -->
+      <class name="day15.EmpListTest">
+        <test-method status="PASS" signature="empList()[pri:0, instance:day15.EmpListTest@62deaa2e]" name="empList" duration-ms="1" started-at="2017-06-10T20:51:18Z" finished-at="2017-06-10T20:51:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- empList -->
+      </class> <!-- day15.EmpListTest -->
+    </test> <!-- ADMIN -->
+  </suite> <!-- ORHM -->
+</testng-results>
